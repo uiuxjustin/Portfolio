@@ -1,0 +1,270 @@
+.navigation{
+    background-color: black;
+    height: 70px;
+    width: 1200px;
+    border-radius: 50px;
+    margin-left: 150px;
+    margin-top: -1910px; 
+     position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.background{
+    margin-left: 30px;
+    }
+    .a{
+        color: aliceblue;
+        position: relative;
+        }
+        
+        
+        .jj{
+            width: 58px;
+            height: 58px;
+            border-radius: 50px;
+            color: aliceblue;
+            background-color: #FE853A;
+            /* margin-left: 450px; */
+        }
+        .jjj{
+            padding-left: 16px;
+        }
+        .project{
+            color: #FE853A;
+            margin-left: 680px;
+            margin-top: 40px;
+        }
+        .projectround1{
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            background-color:#579DC4;
+            position: absolute;
+            margin-left: 210px;
+            margin-top: 50px;
+        }
+        .projectround1:hover{
+            transform: scale(1.1);
+            transition: 2s;
+        }
+        .projectround11{
+            width: 300px;
+            height: 300px;
+        }
+        .projectsquare1{
+            width: 690px;
+            height: 200px;
+            background-color: #579DC4;
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 100px;
+            margin-left: 580px;
+        }
+
+        .projectsquare1:hover{
+            transform: scale(1.1);
+            transition: 2s;
+        }
+        .projectstick1{
+            width: 8px;
+            height: 140px;
+            background-color: black;
+            position: absolute;
+            margin-top: 30px;
+        }
+        .projectheading1{
+            text-align: center;
+        }
+        .projectpara1{
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+
+
+        .projectsquare2{
+            width: 690px;
+            height: 200px;
+            background-color: #BF6AC6;
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 500px;
+            margin-left: 210px;
+        }
+        .projectsquare2:hover{
+            transform: scale(1.1);
+            transition: 2s;
+        }
+
+        .projectstick2{
+            width: 8px;
+            height: 140px;
+            background-color: black;
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 681px;
+        }
+        .projectheading2{
+            text-align: center;
+        }
+        .projectpara2{
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+       
+        .projectround22{
+            width: 300px;
+            height: 300px;
+            margin-left: -300px;
+        }
+        .projectround2{
+            width: 300px;
+            height: 300px;
+            margin-top: 448px;
+            margin-left: 965px;
+        }
+      
+
+        .projectround3{
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            background-color:#579DC4;
+            position: absolute;
+            margin-left: 210px;
+            margin-top: 50px;
+        }
+
+      
+        .projectround33{
+            width: 300px;
+            height: 300px;
+            position: absolute;
+            margin-left: 190px;
+            margin-top: 30px;
+        }
+        .projectsquare3{
+            width: 690px;
+            height: 200px;
+            background-color: #F5B23D;
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 90px;
+            margin-left: 580px;
+        }
+
+        .projectsquare3:hover{
+            transform: scale(1.1);
+            transition: 2s;
+        }
+
+        .projectstick3{
+            width: 8px;
+            height: 140px;
+            background-color: black;
+            position: absolute;
+            margin-top: 30px;
+        }
+        .projectheading3{
+            text-align: center;
+        }
+        .projectpara3{
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+
+
+        
+        .projectsquare4{
+            width: 690px;
+            height: 200px;
+            background-color: #579DC4;
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 500px;
+            margin-left: 210px;
+        }
+
+        .projectsquare4:hover{
+            transform: scale(1.1);
+            transition: 2s;
+        }
+
+        .projectstick4{
+            width: 8px;
+            height: 140px;
+            background-color: black;
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 681px;
+        }
+        .projectheading4{
+            text-align: center;
+        }
+        .projectpara4{
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+       
+        .projectround44{
+            width: 300px;
+            height: 320px;
+            margin-left: -20px;
+            margin-top: -25px;
+        }
+        .projectround4{
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            background-color:#579DC4;
+            position: absolute;
+            margin-left: 975px;
+            margin-top: 440px;
+         
+        }
+
+        .projectround4:hover{
+            transform: scale(1.1);
+            transition: 2s;
+        }
+
+        
+footer{
+    background-color: rgb(17, 17, 17);
+    border-top: 8px solid black;
+    width: 1439px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-left: 31px;
+    margin-top: 830px;
+  }
+
+  .social_icons{
+   
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+   
+  }
+  .footer_icon{
+    font-size: 30px;
+    color: white;
+  
+  }
+
+  .footer_name{
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: bolder;
+    color: white;
+  }
+  .copyright{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(87, 87, 87);
+  }
